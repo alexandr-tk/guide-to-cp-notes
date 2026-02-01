@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chapter 3 — Dynamic Programming.md",
+                "file": "Notes/Chapter 4 — Graph Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 — Dynamic Programming"
+              "title": "Chapter 4 — Graph Algorithms"
             }
           }
         ],
@@ -198,20 +198,21 @@
   },
   "active": "38e57f74ef345205",
   "lastOpenFiles": [
-    "Notes/Chapter 1 — Introduction.md",
     "Notes/Chapter 3 — Dynamic Programming.md",
+    "Notes/Chapter 4 — Graph Algorithms.md",
+    "Notes/Chapter 2 — Sorting.md",
+    "Code/Graph Algorithms",
+    "Code/New folder",
+    "Notes/Chapter 1 — Introduction.md",
+    "Code/Dynamic Programming/MountainRange.cpp",
+    "Code/Dynamic Programming/Counting Tiles.exe",
+    "Code/Dynamic Programming/Counting Tiles.cpp",
     "Code/Dynamic Programming/Counting Numbers.cpp",
     "Code/Dynamic Programming/Elevator Rides copy.cpp",
-    "Notes/Chapter 2 — Sorting.md",
     "Code/Dynamic Programming/Increasing_Subsequence.exe",
     "Code/Dynamic Programming/Increasing_Subsequence.cpp",
     "Code/Dynamic Programming/Josephus Problem II.exe",
     "Factory Machines.md",
-    "Code/Sorting & Searching/Array Division.cpp",
-    "Code/Dynamic Programming/Array Description.exe",
-    "Code/Dynamic Programming/Array Description.cpp",
-    "Code/Dynamic Programming/Book Shop copy.cpp",
-    "Code/Dynamic Programming/Book Shop.exe",
     "Index.md",
     "Hello Check.md",
     "Untitled.md",
