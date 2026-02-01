@@ -1,0 +1,16 @@
+# C++ Compiled Binaries
+*.exe
+*.out
+*.o
+*.app
+
+# IDE Settings (Optional, but recommended)
+.vscode/
+
+# Obsidian Personal State (Keep settings, ignore workspace)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS Junk
+.DS_Store
+Thumbs.db
