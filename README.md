@@ -13,7 +13,7 @@
 
 <br />
 
-## 🧠 Repository Overview
+## Repository Overview
 
 This repository is my personal **technical reference** for competitive programming. It functions as a dual-purpose library:
 1.  **The Code:** A collection of optimized C++ implementations for the [CSES Problem Set](https://cses.fi/problemset/) and standard algorithms.
@@ -21,9 +21,8 @@ This repository is my personal **technical reference** for competitive programmi
 
 I maintain this codebase to keep my algorithmic skills sharp and to have a reliable library of templates for contests.
 
----
 
-## 📚 Structure
+## Structure
 
 The repository connects theory with practice:
 
@@ -37,9 +36,8 @@ Solutions targeting C++20.
 * **CSES Solutions:** Categorized by topic (Sorting, Searching, Graphs).
 * **Templates:** Reusable snippets for standard problems (e.g., Segment Trees, DSU).
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Usage |
 | :--- | :--- |
@@ -47,9 +45,8 @@ Solutions targeting C++20.
 | **Java** | Secondary language for BigInteger and OOP patterns. |
 | **Obsidian** | Markdown-based tool for linking concepts and notes. |
 
----
 
-## 🗂️ Directory Layout
+## Directory Layout
 
 ```text
 .
